@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+
+.header{
+  width: 100%;
+  position: static;
+  background-color: rgba(122, 60, 180, 1);
+  height: auto;
+  transition: all .4s ease 0s;
+}
+
+ul{
+  margin: 0;
+}
+
+.nav-item{
+  text-align: right;
+}

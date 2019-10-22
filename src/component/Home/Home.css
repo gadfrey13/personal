@@ -1,0 +1,18 @@
+.headers{
+    background-color: rgba(122, 60, 180, 1);
+    padding-bottom: 30px;
+}
+
+.masthead-heading.text-uppercase.mb-0{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#portfolio{
+    background-color: white;
+}
+
+.text-gray{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(117, 117, 128);
+    font-size: 20px;
+}
